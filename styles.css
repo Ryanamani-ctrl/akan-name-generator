@@ -5,6 +5,7 @@ body {
   margin: 0;
   padding: 0;
 }
+
 .Container{
   max-width: 750px;
   margin: 50px auto;
@@ -23,12 +24,14 @@ h1 {
   flex-direction: column;
   margin-top: 25px;
 }
+
 label {
   margin-top: 15px;
   margin-bottom: 5px;
   font-weight: bold;
   color: #dddddd;
 }
+
 input,select {
   padding: 10px;
   font-size: 1rem;
@@ -39,6 +42,7 @@ input,select {
   background-color: #2b2b2b;
   color: #ffffff;
 }
+
 input::placeholder {
   color: #999999;
 }
@@ -58,6 +62,7 @@ button {
   cursor: pointer;
   font-weight: bold;
 }
+
 button:hover {
   background-color: #1e88e5;
 }
@@ -72,6 +77,7 @@ button:hover {
   border-radius: 6px;
   color: #ffffff;
 }
+
 .akan-card-wrapper {
   display: flex;
   justify-content: center;
@@ -88,7 +94,6 @@ button:hover {
 }
 
 .akan-card h2 {
-  color: #ffffff;
   margin: 15px 0;
 }
 

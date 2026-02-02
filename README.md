@@ -7,10 +7,8 @@ The Akan Name Generator is a simple web application that allows users to discove
 
 ## Project Setup Instructions
 To run this project locally:
-1. Clone this repository:
-  ```bash
+1. Clone this repository: 
    git clone Clone this repository:
-   ```bash
    git clone https://github.com/your-username/akan-name-generator.git
 2. Navigate into project folder
    ```bash

@@ -9,11 +9,12 @@ The Akan Name Generator is a simple web application that allows users to discove
 To run this project locally:
 1. Clone this repository: 
    git clone Clone this repository:
+     ```bash
    git clone https://github.com/your-username/akan-name-generator.git
-2. Navigate into project folder
+3. Navigate into the project folder
    ```bash
      cd akan-name-generator
-3. Open index.html in your browser:
+4. Open index.html in your browser:
 You can double-click the file, or
 Use a live server extension if you are using VS Code
 No additional installations or dependencies are required.     
